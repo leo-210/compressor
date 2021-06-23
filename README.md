@@ -21,3 +21,5 @@ It will create two files : `compressed.cmprs` and `decompressed.idklol`
 Note: The program writes the percentage of memory saved. If the percentage is negative, that means that the "compressed" file take more space than the not compressed one.
 
 Have fun !
+
+![banner](https://repository-images.githubusercontent.com/379695723/62e45b80-d47f-11eb-8b3e-0e17a4f93006)
