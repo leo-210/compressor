@@ -6,6 +6,8 @@
 A little python program that compresses data. Works better when there's more data. Decompression doesn't really work
 on images, so it is best to try it with text files.
 
+*Ps : if you want to compress a file for general purpose, don't use this, it is really inefficient lol.*
+
 ## Run the code
 
 If you want to try it your self, first make sure you have 
